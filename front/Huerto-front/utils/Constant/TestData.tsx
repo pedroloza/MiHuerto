@@ -1,0 +1,40 @@
+// {
+//     name: "",
+//         lastName: "",
+//     username: "",
+//     password: "",
+//     dni: "",
+//     address: "",
+//     dateOfBirth: "",
+//     dateCreated: "",
+//     email: "",
+//     phone: "",
+//     position: "",
+//     parish: "",
+//     idRole: 0,
+//     submit: null,
+// }
+export const UserData = {
+  name: "Ragnar",
+  lastName: "Test",
+  username: "ragnar24",
+  password: "qwerty00",
+  dni: "1311726135",
+  address: "144 Southwest 8th Street",
+  dateOfBirth: "2024-05-25",
+  dateCreated: "",
+  email: "richard@gmail.com",
+  phone: "0996485125",
+  position: "Test",
+  parish: "opcion2",
+  idRole: "6650fef568ebe452e0d5f386",
+  submit: null,
+};
+
+export const RolData = {
+  id: "1",
+  name: "Admin",
+  description: "El rol es admin",
+  status: "Activo",
+  submit: null,
+};
